@@ -21,7 +21,8 @@
     "volume": "17",
     "issue": "7",
     "pages": "102990",
-    "url": "https://doi.org/10.1016/j.apr.2026.102990"
+    "url": "https://doi.org/10.1016/j.apr.2026.102990",
+    "publisher_url": "https://linkinghub.elsevier.com/retrieve/pii/S1309104226001066"
   },
   {
     "id": "10.1016/j.atmosenv.2025.121762",
@@ -45,7 +46,8 @@
     "volume": "367",
     "issue": "",
     "pages": "121762",
-    "url": "https://doi.org/10.1016/j.atmosenv.2025.121762"
+    "url": "https://doi.org/10.1016/j.atmosenv.2025.121762",
+    "publisher_url": "https://linkinghub.elsevier.com/retrieve/pii/S135223102500737X"
   },
   {
     "id": "10.1016/j.apr.2025.102717",
@@ -68,7 +70,8 @@
     "volume": "17",
     "issue": "1",
     "pages": "102717",
-    "url": "https://doi.org/10.1016/j.apr.2025.102717"
+    "url": "https://doi.org/10.1016/j.apr.2025.102717",
+    "publisher_url": "https://linkinghub.elsevier.com/retrieve/pii/S1309104225003198"
   },
   {
     "id": "10.1016/j.atmosenv.2025.121412",
@@ -92,7 +95,8 @@
     "volume": "360",
     "issue": "",
     "pages": "121412",
-    "url": "https://doi.org/10.1016/j.atmosenv.2025.121412"
+    "url": "https://doi.org/10.1016/j.atmosenv.2025.121412",
+    "publisher_url": "https://linkinghub.elsevier.com/retrieve/pii/S1352231025003875"
   },
   {
     "id": "10.1016/j.jes.2024.01.033",
@@ -120,7 +124,8 @@
     "volume": "149",
     "issue": "",
     "pages": "406-418",
-    "url": "https://doi.org/10.1016/j.jes.2024.01.033"
+    "url": "https://doi.org/10.1016/j.jes.2024.01.033",
+    "publisher_url": "https://linkinghub.elsevier.com/retrieve/pii/S1001074224000470"
   },
   {
     "id": "10.5194/acp-24-13587-2024",
@@ -143,7 +148,9 @@
     "issue": "23",
     "pages": "13587-13601",
     "url": "https://doi.org/10.5194/acp-24-13587-2024",
-    "fulltext": "https://acp.copernicus.org/articles/24/13587/2024/"
+    "publisher_url": "https://acp.copernicus.org/articles/24/13587/2024/",
+    "fulltext": "https://acp.copernicus.org/articles/24/13587/2024/",
+    "pdf": "https://acp.copernicus.org/articles/24/13587/2024/acp-24-13587-2024.pdf"
   },
   {
     "id": "10.5194/acp-24-9885-2024",
@@ -169,7 +176,9 @@
     "issue": "17",
     "pages": "9885-9898",
     "url": "https://doi.org/10.5194/acp-24-9885-2024",
-    "fulltext": "https://acp.copernicus.org/articles/24/9885/2024/"
+    "publisher_url": "https://acp.copernicus.org/articles/24/9885/2024/",
+    "fulltext": "https://acp.copernicus.org/articles/24/9885/2024/",
+    "pdf": "https://acp.copernicus.org/articles/24/9885/2024/acp-24-9885-2024.pdf"
   },
   {
     "id": "10.1016/j.jclepro.2024.143401",
@@ -190,7 +199,8 @@
     "volume": "471",
     "issue": "",
     "pages": "143401",
-    "url": "https://doi.org/10.1016/j.jclepro.2024.143401"
+    "url": "https://doi.org/10.1016/j.jclepro.2024.143401",
+    "publisher_url": "https://linkinghub.elsevier.com/retrieve/pii/S0959652624028506"
   },
   {
     "id": "10.1016/j.jhazmat.2024.135122",
@@ -216,7 +226,8 @@
     "volume": "476",
     "issue": "",
     "pages": "135122",
-    "url": "https://doi.org/10.1016/j.jhazmat.2024.135122"
+    "url": "https://doi.org/10.1016/j.jhazmat.2024.135122",
+    "publisher_url": "https://linkinghub.elsevier.com/retrieve/pii/S0304389424017011"
   },
   {
     "id": "10.13227/j.hjkx.202310049",
@@ -257,7 +268,8 @@
     "issue": "9",
     "pages": "5157–5167",
     "url": "https://doi.org/10.13227/j.hjkx.202310049",
-    "source": "https://pubmed.ncbi.nlm.nih.gov/39323134/"
+    "source": "https://pubmed.ncbi.nlm.nih.gov/39323134/",
+    "publisher_url": "https://www.hjkx.ac.cn/hjkx/ch/reader/view_abstract.aspx?file_no=20240916&flag=1"
   },
   {
     "id": "10.5194/acp-24-8549-2024",
@@ -282,7 +294,9 @@
     "issue": "15",
     "pages": "8549-8567",
     "url": "https://doi.org/10.5194/acp-24-8549-2024",
-    "fulltext": "https://acp.copernicus.org/articles/24/8549/2024/"
+    "publisher_url": "https://acp.copernicus.org/articles/24/8549/2024/",
+    "fulltext": "https://acp.copernicus.org/articles/24/8549/2024/",
+    "pdf": "https://acp.copernicus.org/articles/24/8549/2024/acp-24-8549-2024.pdf"
   },
   {
     "id": "10.1016/j.scitotenv.2024.170569",
@@ -305,7 +319,8 @@
     "volume": "917",
     "issue": "",
     "pages": "170569",
-    "url": "https://doi.org/10.1016/j.scitotenv.2024.170569"
+    "url": "https://doi.org/10.1016/j.scitotenv.2024.170569",
+    "publisher_url": "https://linkinghub.elsevier.com/retrieve/pii/S004896972400706X"
   },
   {
     "id": "10.13227/j.hjkx.202301125",
@@ -338,7 +353,8 @@
     "issue": "2",
     "pages": "689–699",
     "url": "https://doi.org/10.13227/j.hjkx.202301125",
-    "source": "https://www.hjkx.ac.cn/hjkx/ch/html/20240208.htm"
+    "source": "https://www.hjkx.ac.cn/hjkx/ch/html/20240208.htm",
+    "publisher_url": "https://www.hjkx.ac.cn/hjkx/ch/html/20240208.htm"
   },
   {
     "id": "10.1016/j.atmosres.2023.106958",
@@ -361,7 +377,8 @@
     "volume": "294",
     "issue": "",
     "pages": "106958",
-    "url": "https://doi.org/10.1016/j.atmosres.2023.106958"
+    "url": "https://doi.org/10.1016/j.atmosres.2023.106958",
+    "publisher_url": "https://linkinghub.elsevier.com/retrieve/pii/S0169809523003551"
   },
   {
     "id": "10.1016/j.envpol.2023.121465",
@@ -384,7 +401,8 @@
     "volume": "326",
     "issue": "",
     "pages": "121465",
-    "url": "https://doi.org/10.1016/j.envpol.2023.121465"
+    "url": "https://doi.org/10.1016/j.envpol.2023.121465",
+    "publisher_url": "https://linkinghub.elsevier.com/retrieve/pii/S0269749123004670"
   },
   {
     "id": "10.13227/j.hjkx.202203117",
@@ -417,7 +435,8 @@
     "issue": "2",
     "pages": "699–708",
     "url": "https://doi.org/10.13227/j.hjkx.202203117",
-    "source": "https://pubmed.ncbi.nlm.nih.gov/36775594/"
+    "source": "https://pubmed.ncbi.nlm.nih.gov/36775594/",
+    "publisher_url": "https://www.hjkx.ac.cn/hjkx/ch/reader/view_abstract.aspx?file_no=20230211&flag=1"
   },
   {
     "id": "10.5194/acp-22-14859-2022",
@@ -444,7 +463,9 @@
     "issue": "22",
     "pages": "14859-14878",
     "url": "https://doi.org/10.5194/acp-22-14859-2022",
-    "fulltext": "https://acp.copernicus.org/articles/22/14859/2022/"
+    "publisher_url": "https://acp.copernicus.org/articles/22/14859/2022/",
+    "fulltext": "https://acp.copernicus.org/articles/22/14859/2022/",
+    "pdf": "https://acp.copernicus.org/articles/22/14859/2022/acp-22-14859-2022.pdf"
   },
   {
     "id": "10.13227/j.hjkx.202109153",
@@ -477,7 +498,8 @@
     "issue": "7",
     "pages": "3451–3462",
     "url": "https://doi.org/10.13227/j.hjkx.202109153",
-    "source": "https://www.hjkx.ac.cn/ch/reader/view_abstract.aspx?file_no=20220708&flag=1"
+    "source": "https://www.hjkx.ac.cn/ch/reader/view_abstract.aspx?file_no=20220708&flag=1",
+    "publisher_url": "https://www.hjkx.ac.cn/ch/reader/view_abstract.aspx?file_no=20220708&flag=1"
   },
   {
     "id": "10.1016/j.apr.2022.101390",
@@ -501,7 +523,8 @@
     "volume": "13",
     "issue": "4",
     "pages": "101390",
-    "url": "https://doi.org/10.1016/j.apr.2022.101390"
+    "url": "https://doi.org/10.1016/j.apr.2022.101390",
+    "publisher_url": "https://linkinghub.elsevier.com/retrieve/pii/S1309104222000769"
   },
   {
     "id": "10.13227/j.hjkx.202107001",
@@ -538,7 +561,8 @@
     "issue": "3",
     "pages": "1180–1189",
     "url": "https://doi.org/10.13227/j.hjkx.202107001",
-    "source": "https://www.hjkx.ac.cn/hjkx/ch/html/20220306.htm"
+    "source": "https://www.hjkx.ac.cn/hjkx/ch/html/20220306.htm",
+    "publisher_url": "https://www.hjkx.ac.cn/hjkx/ch/html/20220306.htm"
   },
   {
     "id": "10.1016/j.jes.2021.01.035",
@@ -560,7 +584,8 @@
     "volume": "108",
     "issue": "",
     "pages": "44-57",
-    "url": "https://doi.org/10.1016/j.jes.2021.01.035"
+    "url": "https://doi.org/10.1016/j.jes.2021.01.035",
+    "publisher_url": "https://linkinghub.elsevier.com/retrieve/pii/S1001074221000395"
   },
   {
     "id": "10.1016/j.scitotenv.2021.147303",
@@ -584,7 +609,8 @@
     "volume": "785",
     "issue": "",
     "pages": "147303",
-    "url": "https://doi.org/10.1016/j.scitotenv.2021.147303"
+    "url": "https://doi.org/10.1016/j.scitotenv.2021.147303",
+    "publisher_url": "https://linkinghub.elsevier.com/retrieve/pii/S0048969721023743"
   },
   {
     "id": "10.13227/j.hjkx.202002151",
@@ -623,7 +649,8 @@
     "issue": "10",
     "pages": "4436–4445",
     "url": "https://doi.org/10.13227/j.hjkx.202002151",
-    "source": "https://pubmed.ncbi.nlm.nih.gov/33124375/"
+    "source": "https://pubmed.ncbi.nlm.nih.gov/33124375/",
+    "publisher_url": "https://www.hjkx.ac.cn/hjkx/ch/reader/view_abstract.aspx?file_no=20201010&flag=1"
   },
   {
     "id": "10.13227/j.hjkx.202001133",
@@ -695,7 +722,8 @@
     "issue": "8",
     "pages": "2935–2943",
     "url": "https://html.rhhz.net/hjkxxb/html/20200216001.htm",
-    "source": "https://html.rhhz.net/hjkxxb/html/20200216001.htm"
+    "source": "https://html.rhhz.net/hjkxxb/html/20200216001.htm",
+    "publisher_url": "https://html.rhhz.net/hjkxxb/html/20200216001.htm"
   },
   {
     "id": "10.1016/j.chemosphere.2020.126283",
@@ -719,6 +747,7 @@
     "volume": "250",
     "issue": "",
     "pages": "126283",
-    "url": "https://doi.org/10.1016/j.chemosphere.2020.126283"
+    "url": "https://doi.org/10.1016/j.chemosphere.2020.126283",
+    "publisher_url": "https://linkinghub.elsevier.com/retrieve/pii/S0045653520304768"
   }
 ]
