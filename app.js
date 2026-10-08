@@ -1,7 +1,8 @@
 'use strict';
 (() => {
   const storage = {get(key){try{return localStorage.getItem(key)}catch{return null}},set(key,value){try{localStorage.setItem(key,value)}catch{}}};
-  let language = storage.get('dz-language') || 'zh';
+  const languagePreferenceKey = 'dz-language-v2';
+  let language = storage.get(languagePreferenceKey) === 'zh' ? 'zh' : 'en';
   let filter = 'all';
   let toastTimer;
   const publications = window.PUBLICATIONS || [];
@@ -30,7 +31,7 @@
   function updateThemeLabel(){document.getElementById('theme-toggle').setAttribute('aria-label',document.documentElement.dataset.theme==='dark'?label('切换浅色模式','Switch to light mode'):label('切换深色模式','Switch to dark mode'))}
   const savedTheme=storage.get('dz-theme');if(savedTheme==='dark'||!savedTheme&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.dataset.theme='dark'}
   document.getElementById('theme-toggle').onclick=()=>{const next=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=next;storage.set('dz-theme',next);updateThemeLabel()};
-  document.getElementById('lang-toggle').onclick=()=>{language=language==='zh'?'en':'zh';storage.set('dz-language',language);applyLanguage()};
+  document.getElementById('lang-toggle').onclick=()=>{language=language==='zh'?'en':'zh';storage.set(languagePreferenceKey,language);applyLanguage()};
   [...new Set(publications.map(p=>p.year))].forEach(y=>{const option=document.createElement('option');option.value=String(y);option.textContent=String(y);year.appendChild(option)});
   document.querySelectorAll('[data-filter]').forEach(button=>button.onclick=()=>setFilter(button.dataset.filter));search.oninput=render;year.onchange=render;
   list.addEventListener('click',async event=>{const button=event.target.closest('[data-cite]');if(!button)return;const paper=publications.find(p=>p.id===button.dataset.cite);if(!paper)return;const text=citation(paper);try{if(navigator.clipboard&&window.isSecureContext){await navigator.clipboard.writeText(text)}else{const area=document.createElement('textarea');area.value=text;area.style.cssText='position:fixed;left:-9999px';document.body.appendChild(area);area.select();const copied=document.execCommand('copy');area.remove();if(!copied)throw Error('copy unavailable')}showToast(label('引用已复制','Citation copied'))}catch{showToast(label('复制未成功，请从论文页面获取引用','Copy failed. Please obtain the citation on the article page.'))}});
